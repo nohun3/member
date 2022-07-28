@@ -1,0 +1,21 @@
+{
+  "member": [
+    {
+      "firstName": "송",
+      "lastName": "영준",
+      "team": "복지시설정보부",
+      "avatar": "song.png",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
